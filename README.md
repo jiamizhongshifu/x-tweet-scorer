@@ -179,3 +179,7 @@ MIT
 ---
 
 **如果觉得有用，欢迎 ⭐ Star，也欢迎用本 Skill 评分这条 README 顺便测试一下** 🙂
+
+## 关注作者
+
+如果这个 Skill 帮到了你，欢迎在 X 上关注我 [@drmrzhong](https://x.com/drmrzhong) —— 我会持续分享 AI、Claude Code Skills 以及小账号自救实验的最新进展。
